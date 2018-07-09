@@ -15,8 +15,7 @@
             @yield('content')
         </div>
         <footer class="container text-center">
-            Made with <i class="fa fa-heart"></i> by your pals
-            <a href="http://www.twilio.com">@twilio</a>
+            Made with <i class="fa fa-heart"></i> 
         </footer>
         <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
         <script src="//netdna.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
